@@ -127,7 +127,7 @@ View the live demo of this website by visiting: https://dediindrawan.vercel.app/
 Here are some screenshots of this web page:
 - Desktop view:  
 
-![Alt](https://i.ibb.co.com/T0H6Q9n/Macbook-Air-localhost.png)
+![Macbook-Air-localhost](https://github.com/user-attachments/assets/196cc05b-c8e1-4e8c-af37-820a53b1e0cf)
 
 - Tablet view: 
 
