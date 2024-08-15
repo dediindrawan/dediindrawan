@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "url": "https://linkedin.com/in/dediindrawan",
+        "icon": "https://i.ibb.co.com/ww1d3X9/linkedin.png"
+    },
+    {
+        "id": 2,
+        "url": "https://github.com/dediindrawan",
+        "icon": "https://i.ibb.co.com/bdMxPzx/github.png"
+    },
+    {
+        "id": 3,
+        "url": "https://instagram.com/dediindra_one",
+        "icon": "https://i.ibb.co.com/L1Q8tp3/instagram.png"
+    },
+    {
+        "id": 4,
+        "url": "https://youtube.com/c/DediIndrawan",
+        "icon": "https://i.ibb.co.com/Xs7gYt1/youtube.png"
+    }
+]

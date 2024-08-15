@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "icon": "https://i.ibb.co.com/10tF2Gc/html.png"
+    },
+    {
+        "id": 2,
+        "icon": "https://i.ibb.co.com/3WGt3cN/css.png"
+    },
+    {
+        "id": 3,
+        "icon": "https://i.ibb.co.com/JCw4bKg/sass.png"
+    },
+    {
+        "id": 4,
+        "icon": "https://i.ibb.co.com/Sv0cnhc/javascript.png"
+    },
+    {
+        "id": 5,
+        "icon": "https://i.ibb.co.com/FKt9LzY/tailwind.png"
+    },
+    {
+        "id": 6,
+        "icon": "https://i.ibb.co.com/r4D71FT/git.png"
+    },
+    {
+        "id": 7,
+        "icon": "https://i.ibb.co.com/x5ygGCX/reactjs.png"
+    }
+]

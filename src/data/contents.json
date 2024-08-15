@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "video": "https://youtu.be/66GvN5k8SpA?si=gxt1GF-BupuHEmXB",
+        "gif": "https://i.ibb.co.com/KmvWdq0/list-item-react.gif",
+        "title": "Learn About List Item In React.js",
+        "description": "Understanding the proper way to create list items according to the best practices in a React.js."
+    },
+    {
+        "id": 2,
+        "video": "https://youtu.be/8b6osjauJN8?si=WqF_7meXaMVp0sdC",
+        "gif": "https://i.ibb.co.com/Tq7VHn9/filter-data-js.gif",
+        "title": "Learn Filter Data in JavaScript",
+        "description": "Creating test cases for the data search feature by implementing the filter method in JavaScript."
+    },
+    {
+        "id": 3,
+        "video": "https://youtu.be/KcosfJiAq_w?si=Sg-uhmxhUfhl1KLz",
+        "gif": "https://i.ibb.co.com/M1dx5gt/navigation-js.gif",
+        "title": "Learn Navigation in JavaScript",
+        "description": "Understanding several concepts and methods for creating page navigation in HTML and JavaScript."
+    }
+]

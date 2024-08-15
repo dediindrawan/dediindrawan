@@ -1,0 +1,27 @@
+[  
+    {
+        "id": 1,
+        "path": "/",
+        "section": "Home"
+    },
+    {
+        "id": 2,
+        "path": "#profile",
+        "section": "Profile"
+    },
+    {
+        "id": 3,
+        "path": "#project",
+        "section": "Project"
+    },
+    {
+        "id": 4,
+        "path": "#content",
+        "section": "Content"
+    },
+    {
+        "id": 5,
+        "path": "#contact",
+        "section": "Contact"
+    }
+]
