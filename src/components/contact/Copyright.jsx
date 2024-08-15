@@ -11,7 +11,7 @@ const Copyright = () => {
   return (
     <p className="copyright">
       &copy; <span ref={copyrightRef}></span> |{' '}
-      <a href="/" target="_blank" rel="noopener noreferrer">
+      <a href="https://dediindrawan.vercel.app/" target="_blank" rel="noopener noreferrer">
         Dedi Indrawan
       </a>
     </p>

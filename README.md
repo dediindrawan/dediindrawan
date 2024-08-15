@@ -1,10 +1,10 @@
 # Portfolio Website
 A modern React project built with Vite and styled using Tailwind CSS.
 
-## Deskripsi
-Projek ini adalah sebuah halaman portofolio web sederhana yang dibangun menggunakan React, Vite sebagai build tool, dan Tailwind CSS untuk styling. Projek ini dirancang untuk memberikan pengalaman pengembangan yang cepat dan efisien.
+## Description
+This project is a simple portfolio web page built using React, Vite as the build tool, and Tailwind CSS for styling. It is designed to provide a fast and efficient development experience.
 
-Portofolio ini menampilkan beberapa menu konten seperti:
+This portfolio features several content menus such as:
 
 - Home
 - Profile
@@ -12,50 +12,50 @@ Portofolio ini menampilkan beberapa menu konten seperti:
 - Content
 - Contact
 
-## Prasyarat
-Pastikan Anda telah menginstal Node.js versi 14.18+ atau versi yang lebih baru dan npm, pnpm, atau yarn sebagai package manager sebelum melanjutkan.
+## Prerequisites
+Make sure you have Node.js version 14.18+ or later installed, along with npm, pnpm, or yarn as the package manager before proceeding.
 
-## Instalasi
-Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan projek di lingkungan pengembangan Anda:
+## Installation
+Follow the steps below to install and run the project in your development environment:
 
-1. **Clone Repository** ini ke direktori lokal Anda:
+1. **Clone Repository** to your local directory:
 ```bash
 git clone https://github.com/dediindrawan/dediindrawan.git
 ```
 
-2. **Navigasikan** ke direktori projek:
+2. **Navigate** to the project directory:
 ```bash
 cd dediindrawan
 ```
 
-3. **Install** dependensi yang diperlukan:
+3. **Install** the required dependencies:
 ```bash
-# Jika menggunakan npm:
+# If using npm:
 - npm install
 
-# Jika menggunakan pnpm:
+# If using pnpm:
 - pnpm install
 
-# Jika menggunakan yarn:
+# If using yarn:
 - yarn install
 ```
 
-4. **Jalankan projek** di mode pengembangan:
+4. **Run the project** in development mode:
 ```bash
-# Jika menggunakan npm:
+# If using npm:
 - npm run dev
 
-# Jika menggunakan pnpm:
+# If using pnpm:
 - pnpm run dev
 
-# Jika menggunakan yarn:
+# If using yarn:
 - yarn dev
 ```
 
-5. **Buka** `http://localhost:5173` di Browser Anda untuk melihat aplikasi berjalan. Atau, periksa alamat url yang dijalankan di terminal pada code editor Anda.
+5. **Open** `http://localhost:5173` in your browser to view the running application. Alternatively, check the URL provided in the terminal of your code editor.
 
-## Struktur Projek
-Berikut adalah gambaran struktur direktori dari proyek ini:
+## Project Structure
+Here is an overview of the directory structure of this project:
 
 ```
 dediindrawan/
@@ -82,12 +82,12 @@ dediindrawan/
 └── vite.config.js
 ```
 
-- **src/**: Folder utama untuk sumber file aplikasi
-- **tailwind.config.js**: File konfigurasi Tailwind CSS
-- **vite.config.js**: File konfigurasi Vite
+- **src/**: The main folder for the application's source files
+- **tailwind.config.js**: Tailwind CSS configuration file
+- **vite.config.js**: Vite configuration file
 
-## Cara Penggunaan
-Setelah menginstal projek, Anda dapat menambahkan komponen baru, mengatur state, dan menyesuaikan tampilan menggunakan Tailwind CSS. Berikut adalah contoh bagaimana Anda dapat membuat komponen sederhana:
+## Usage
+After installing the project, you can add new components, manage state, and customize the appearance using Tailwind CSS. Here's an example of how you can create a simple component:
 
 ```bash
 // src/components/Button.jsx
@@ -104,7 +104,7 @@ const Button = ({ children }) => {
 export default Button;
 ```  
 
-Cara penggunaannya di App.jsx:
+Usage in App.jsx:
 
 ```bash
 import React from 'react';
@@ -121,40 +121,40 @@ function App() {
 export default App;
 ```
 ## Demo
-Lihat demo website ini secara langsung dengan mengunjungi: https://dediindrawan.vercel.app
+View the live demo of this website by visiting: https://dediindrawan.vercel.app/
 
-### Tangkapan Layar
-Berikut adalah beberapa tangkapan layar halaman web ini:
-- Tampilan layar desktop:  
+### Screenshots
+Here are some screenshots of this web page:
+- Desktop view:  
 
-![Alt Text](https://i.ibb.co.com/T0H6Q9n/Macbook-Air-localhost.png)
+![Alt](https://i.ibb.co.com/T0H6Q9n/Macbook-Air-localhost.png)
 
-- Tampilan layar tablet:  
+- Tablet view: 
 
-![Alt Text](https://i.ibb.co.com/HgkNcf1/i-Pad-Mini-localhost.png)
+![Alt](https://i.ibb.co.com/HgkNcf1/i-Pad-Mini-localhost.png)
 
-- Tampilan layar smartphone:  
+- Smartphone view:  
 
-![Alt Text](https://i.ibb.co.com/XJ9L09G/Google-Pixel5-localhost.png)  
+![Alt](https://i.ibb.co.com/XJ9L09G/Google-Pixel5-localhost.png)  
 
-![Alt Text](https://i.ibb.co.com/9V6GZ6F/Google-Pixel5-localhost-1.png)
+![Alt](https://i.ibb.co.com/9V6GZ6F/Google-Pixel5-localhost-1.png)
 
-## Kontribusi
-Jika Anda ingin berkontribusi pada projek ini, harap ikuti langkah-langkah berikut:
-1. Fork Repository ini
-2. Buat branch baru (git checkout -b feature-branch)
-3. Commit perubahan Anda (git commit -m 'Add new feature')
-4. Push ke branch tersebut (git push origin feature-branch)
-5. Buka Pull Request di GitHub
+## Contribution
+If you want to contribute to this project, please follow these steps:
+1. Fork this Repository
+2. Create a new branch (git checkout -b feature-branch)
+3. Commit your changes (git commit -m 'Add new feature')
+4. Push to the branch (git push origin feature-branch)
+5. Open a Pull Request on GitHub
 
 
-## Penjelasan
-- **Deskripsi**: Bagian ini menjelaskan tentang projek secara umum.
-- **Prasyarat**: Menjelaskan versi Node.js yang dibutuhkan dan package manager yang digunakan.
-- **Instalasi**: Langkah-langkah untuk mengkloning repository, menginstal dependensi, dan menjalankan projek.
-- **Struktur Projek**: Memberikan gambaran umum tentang struktur direktori projek.
-- **Cara Penggunaan**: Contoh bagaimana menggunakan komponen atau fitur dalam projek.
-- **Tautan Demo**: Menyediakan link ke aplikasi yang sudah dideploy untuk pengunjung melihat aplikasi secara langsung.
-- **Tangkapan Layar**: Menambahkan gambar yang menunjukkan tampilan aplikasi.
-- **Kontribusi**: Langkah-langkah untuk berkontribusi pada projek.
+## Explanation
+- **Description**: This section provides a general overview of the project.
+- **Prerequisites**: Specifies the required Node.js version and the package manager used.
+- **Installation**: Steps to clone the repository, install dependencies, and run the project.
+- **Project Structure**: Provides a general overview of the project's directory structure.
+- **Usage**: Example of how to use components or features in the project.
+- **Demo Link**: Provides a link to the deployed application for visitors to see the application live.
+- **Screenshots**: Adds images showing the application's interface.
+- **Contribution**: Steps to contribute to the project.
 
