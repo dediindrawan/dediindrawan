@@ -15,7 +15,7 @@ const PageNotFound = () => {
           <p>Error: {error.error.message}</p>
         </span>
 
-        <Link to="https://dediindrawan.vercel.app/">Back to main page</Link>
+        <Link to="/">Back to main page</Link>
       </span>
     </div>
   );

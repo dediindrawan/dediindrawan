@@ -7,9 +7,13 @@ import './index.css';
 
 const router = createBrowserRouter([
   {
-    path: 'https://dediindrawan.vercel.app/',
+    path: '/',
     element: <App />,
     errorElement: <PageNotFound />,
+  },
+  {
+    path: '*',
+    element: <PageNotFound />,
   },
 ]);
 
