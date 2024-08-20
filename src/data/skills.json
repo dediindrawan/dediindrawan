@@ -25,6 +25,10 @@
     },
     {
         "id": 7,
+        "icon": "https://i.ibb.co.com/pWtvQZn/nodejs.png"
+    },
+    {
+        "id": 8,
         "icon": "https://i.ibb.co.com/x5ygGCX/reactjs.png"
     }
 ]

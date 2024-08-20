@@ -180,23 +180,14 @@
                         @apply flex flex-col-reverse gap-4;
 
                         & ul {
-                            @apply grid grid-cols-4 gap-4 sm:grid-cols-5 lg:grid-cols-6;
+                            @apply grid grid-cols-4 gap-4;
 
                             & li {
-                                @apply p-4 flex justify-center items-center rounded-md shadow-sm shadow-black bg-slate-800 last:col-span-2 sm:first:row-span-2 lg:first:col-span-2 lg:first:row-span-1;
+                                @apply p-4 flex justify-center items-center rounded-md shadow-sm shadow-black bg-slate-800;
 
                                 & img {
                                     @apply w-12 aspect-square object-cover lg:w-14;
                                 }
-                            }
-
-                            & li:nth-child(4) {
-                                @apply sm:col-span-2;
-                            }
-
-                            & li:nth-child(5),
-                            li:nth-child(6) {
-                                @apply lg:col-span-2;
                             }
                         }
                     }
