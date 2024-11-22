@@ -35,18 +35,5 @@
         ],
         "preview": "https://task-manager-apps.vercel.app/index.html",
         "repo": "https://github.com/dediindrawan/task-manager-apps.git"
-    },
-    {
-        "id": 4,
-        "thumbnail": "https://i.ibb.co.com/Xs2KqKL/personal-portfolio.jpg",
-        "description": "Personal Portfolio Website",
-        "stacks": [
-            "https://i.ibb.co.com/10tF2Gc/html.png",
-            "https://i.ibb.co.com/3WGt3cN/css.png",
-            "https://i.ibb.co.com/JCw4bKg/sass.png",
-            "https://i.ibb.co.com/Sv0cnhc/javascript.png"
-        ],
-        "preview": "https://dediindrawan.github.io/personal-portfolio/",
-        "repo": "https://github.com/dediindrawan/personal-portfolio.git"
     }
 ]

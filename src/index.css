@@ -207,7 +207,7 @@
                 }
 
                 & .card-wrapper {
-                    @apply max-w-sm mx-auto grid grid-cols-1 gap-4 sm:max-w-screen-sm sm:grid-cols-2 lg:max-w-screen-lg lg:grid-cols-3 xl:max-w-screen-xl xl:grid-cols-4;
+                    @apply max-w-sm mx-auto grid grid-cols-1 gap-4 sm:max-w-screen-sm sm:grid-cols-2 lg:max-w-screen-lg lg:grid-cols-3 xl:grid-cols-3;
 
                     & figure {
                         @apply flex flex-col rounded-md shadow-sm shadow-black bg-slate-800;
