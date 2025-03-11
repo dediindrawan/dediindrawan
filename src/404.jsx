@@ -9,11 +9,13 @@ const PageNotFound = () => {
         <h1>Oops!</h1>
         <p>Sorry, an unexpected error has occured.</p>
 
-        <span>
-          <h2>{error.status}</h2>
-          <p>{error.statusText}</p>
-          <p>Error: {error.error.message}</p>
-        </span>
+        {error && (
+          <span>
+            <h2>{error.status}</h2>
+            <p>{error.statusText}</p>
+            <p>Error: {error.error.message}</p>
+          </span>
+        )}
 
         <Link to="/">Back to main page</Link>
       </span>

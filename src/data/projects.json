@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "thumbnail": "https://i.ibb.co.com/b5P0D7w/portfolio.jpg",
-        "description": "Portfolio Website",
+        "thumbnail": "https://i.ibb.co.com/5hb4hsq2/portfolio-thumbnail.jpg",
+        "description": "Explore my projects, skills, and passion for crafting interactive web experiences.",
         "stacks": [
             "https://i.ibb.co.com/10tF2Gc/html.png",
             "https://i.ibb.co.com/FKt9LzY/tailwind.png",
@@ -14,8 +14,8 @@
     },
     {
         "id": 2,
-        "thumbnail": "https://i.ibb.co.com/y4GDBkL/papanots-steak.jpg",
-        "description": "Restaurant Steak Website",
+        "thumbnail": "https://i.ibb.co.com/Q7Yjygcb/papanots-thumbnail.jpg",
+        "description": "Enjoy perfectly seared steaks, rich flavors, and an unforgattable dining experience.",
         "stacks": [
             "https://i.ibb.co.com/10tF2Gc/html.png",
             "https://i.ibb.co.com/FKt9LzY/tailwind.png",
@@ -26,14 +26,27 @@
     },
     {
         "id": 3,
-        "thumbnail": "https://i.ibb.co.com/sC4Xy1X/task-manager.jpg",
-        "description": "Task Manager Application",
+        "thumbnail": "https://i.ibb.co.com/1gZ5hhx/task-manager-app-thumbnail.jpg",
+        "description": "Plan, track, and complete your daily tasks with ease using our powerfull task manager.",
         "stacks": [
             "https://i.ibb.co.com/10tF2Gc/html.png",
             "https://i.ibb.co.com/FKt9LzY/tailwind.png",
             "https://i.ibb.co.com/Sv0cnhc/javascript.png"
         ],
         "preview": "https://task-manager-apps.vercel.app/index.html",
+        "repo": "https://github.com/dediindrawan/task-manager-apps.git"
+    },
+    {
+        "id": 4,
+        "thumbnail": "https://i.ibb.co.com/PZG63HPp/dedflicks-thumbnail.jpg",
+        "description": "Find your favorite movies, TV series, or actors here.",
+        "stacks": [
+            "https://i.ibb.co.com/10tF2Gc/html.png",
+            "https://i.ibb.co.com/FKt9LzY/tailwind.png",
+            "https://i.ibb.co.com/x5ygGCX/reactjs.png",
+            "https://i.ibb.co.com/Sv0cnhc/javascript.png"
+        ],
+        "preview": "https://dedflicks.vercel.app/",
         "repo": "https://github.com/dediindrawan/task-manager-apps.git"
     }
 ]
